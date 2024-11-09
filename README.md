@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi, I'm SIDDHARTH T.V 
+![about](https://github.com/user-attachments/assets/cdbc5467-33bc-417b-97c2-db581a7bed94)
 
 <!--
 **SIDDHARTH-TV/SIDDHARTH-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
