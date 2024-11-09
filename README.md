@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajie11&label=Profile%20views&color=0e75b6&style=flat" alt="rajie11" /> </p>
 
-<video src="https://imgflip.com/gif/99sdgl" height="170" autoplay loop></video>
+<img src="https://i.imgflip.com/99sdgl.gif" height="170" align="right" />
 
 
 - 🌱 I’m currently learning **Full stack Development**
