@@ -1,24 +1,24 @@
 <h1 align="center">Hi 🐱, I'm Siddharth</h1>
 <h3 align="center">A Passionate Frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajie11&label=Profile%20views&color=0e75b6&style=flat" alt="rajie11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajie11&label=Profile%20views&color=0e75b6&style=flat" alt="SIDDHARTH-TV" /> </p>
 
 <img src="https://i.imgflip.com/99sdgl.gif" height="170" align="right" />
 
 
-- 🌱 I’m currently learning **Full stack Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://rajieportfolio.netlify.app/](https://rajieportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://siddharththirumalairaj-portfolio.vercel.app/](https://siddharththirumalairaj-portfolio.vercel.app/)
 
 - 📫 How to reach me **siddharththirumalairaj2004@gmaill.com**
 
-- 📄 Know about my experiences [https://rajieportfolio.netlify.app/resume](https://rajieportfolio.netlify.app/resume)
+- 📄 Know about my experiences [https://siddharththirumalairaj-portfolio.vercel.app/](https://siddharththirumalairaj-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/__rajie__?t=fiumt05eq0gdami15rwqnw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/__rajie__?t=fiumt05eq0gdami15rwqnw&s=08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajarajeswari-j11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajarajeswari-j11/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rajarajeswari_j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajarajeswari_j/" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/siddharththirumalairaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajarajeswari-j11/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,8 +30,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+It's Not Over Until I Win!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RAJIE11&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
