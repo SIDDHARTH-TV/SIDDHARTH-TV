@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **siddharththirumalairaj2004@gmaill.com**
 
-- 📄 Know about my experiences [https://siddharththirumalairaj-portfolio.vercel.app/](https://siddharththirumalairaj-portfolio.vercel.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
