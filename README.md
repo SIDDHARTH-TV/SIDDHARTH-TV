@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://siddharththirumalairaj-portfolio.vercel.app/](https://siddharththirumalairaj-portfolio.vercel.app/)
+
 
 - 📫 How to reach me **siddharththirumalairaj2004@gmaill.com**
 
