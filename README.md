@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajie11&label=Profile%20views&color=0e75b6&style=flat" alt="SIDDHARTH-TV" /> </p>
 
-<img src="https://i.imgflip.com/99sdgl.gif" height="250" width="250" align="right" /> 
+//<img src="https://i.imgflip.com/99sdgl.gif" height="250" width="250" align="right" /> 
 
 
 - 🌱 I’m currently learning **Web Development**
